@@ -151,8 +151,8 @@ DWORD WINAPI ShowMessageBox(LPVOID lpParam)
 
     MessageBoxA(
         NULL,
-        "press ok in lobby",
-        "tuff",
+        "press ok once the game is fully loaded",
+        "linou universal canva rendering",
         MB_OK
     );
 
